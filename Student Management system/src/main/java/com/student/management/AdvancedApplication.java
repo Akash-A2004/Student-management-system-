@@ -1,14 +1,13 @@
-package com.example.NewProject;
-
+package com.student.management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ANewProjectApplication {
+public class AdvancedApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ANewProjectApplication.class, args);
+		SpringApplication.run(AdvancedApplication.class, args);
 	}
 
 }
